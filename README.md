@@ -10,3 +10,5 @@ The keras model is created by training from scratch on around 2200 face images (
 * requests
 * progressbar
 * cvlib
+
+We would first need to generate model by executing the `train_model.ipynb` file. Once the model is generated successfully,it is saved and then we can use `detect_gender.ipynb` to get realtime gender classification.
